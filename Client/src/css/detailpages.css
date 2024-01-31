@@ -1,0 +1,17 @@
+.img-detail{
+    width: 420px;
+    height: 600px;
+}
+
+@media screen and (max-width: 768px) {
+    .list-item {
+        padding: 0.5rem 0.5rem;
+    }
+    h6{
+        font-size: 0.5rem !important;
+    }
+    .img-detail{
+        width: 400px !important;
+        height: 430px !important;
+    }
+}
